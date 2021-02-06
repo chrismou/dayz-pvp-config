@@ -72,6 +72,7 @@
 
         <!-- centers for grids of spawn points -->
         <generator_posbubbles>
+
 				<!-- NWAF -->
 					<pos x="4164.77" z="11075.98" />
 					<pos x="5372.24" z="9883.55" />
