@@ -18,9 +18,16 @@ Example messages:
 2) following message will be displayed every 15 minutes to every player
 -->
     <message>
-        <repeat>15</repeat>
-        <text>Fuck you, Kins</text>
+        <repeat>30</repeat>
+        <text>If you like the server, support us by subscribing to mous onlyfans</text>
     </message>
+
+    <message>
+        <delay>30</delay>
+        <repeat>30</repeat>
+        <text>lol as if Beaso hasn't realised I've turned guns off for him. Whoops, wrong chat</text>
+    </message>
+
 <!--
 
 3) following message will be displayed every 50 minutes to every player
