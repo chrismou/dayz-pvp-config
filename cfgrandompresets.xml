@@ -131,12 +131,15 @@
 				<item name="AmmoBox_45ACP_25Rnd" chance="0.1" />
 		</cargo>
 		<cargo chance="1.00" name="ammoArmy">
-				<item name="Mag_AKM_Drum75Rnd" chance="0.30" />
-				<item name="Mag_AK74_30Rnd" chance="0.30" />
-				<item name="Mag_AK101_30Rnd" chance="0.30" />
-				<item name="Mag_CMAG_40Rnd" chance="0.30" />
-				<item name="Mag_STANAGCoupled_30Rnd" chance="0.30" />
-				<item name="Mag_Saiga_Drum20Rnd" chance="0.30" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.30" />
+			<item name="Mag_AK74_30Rnd" chance="0.30" />
+			<item name="Mag_AK101_30Rnd" chance="0.30" />
+			<item name="Mag_CMAG_40Rnd" chance="0.30" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.30" />
+			<item name="Mag_Saiga_Drum20Rnd" chance="0.30" />
+		</cargo>
+		<cargo chance="1.00" name="weaponArmy">
+			<item name="Deagle_Gold" chance="1.00" />
 		</cargo>
 		<cargo chance="0.1" name="mixVillage">
 				<item name="DuctTape" chance="0.07" />
