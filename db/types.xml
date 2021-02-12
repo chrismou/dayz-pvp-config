@@ -481,10 +481,10 @@
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_12gaSlug_10Rnd">
-        <nominal>480</nominal>
+        <nominal>0</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -733,10 +733,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_12gaPellets">
-        <nominal>160</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>90</min>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -759,10 +759,10 @@
         <usage name="Farm"/>
     </type>
     <type name="Ammo_12gaSlug">
-        <nominal>160</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>90</min>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -9806,10 +9806,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_5Rnd">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>450</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -9820,10 +9820,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_8Rnd">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>450</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -9832,10 +9832,10 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_Saiga_Drum20Rnd">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>450</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>15</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -10759,10 +10759,10 @@
         <category name="tools"/>
     </type>
     <type name="Mp133Shotgun">
-        <nominal>100</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>99</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12497,10 +12497,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Saiga">
-        <nominal>60</nominal>
+        <nominal>0</nominal>
         <lifetime>3600</lifetime>
         <restock>450</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
